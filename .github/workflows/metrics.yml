@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: fwy13
+          user: RussherVN
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Bangkok
